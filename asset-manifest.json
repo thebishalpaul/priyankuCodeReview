@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/priyankuCodeReview/static/css/main.8cee230a.css",
+    "main.js": "/priyankuCodeReview/static/js/main.b95eaf97.js",
+    "static/js/787.b2dfefea.chunk.js": "/priyankuCodeReview/static/js/787.b2dfefea.chunk.js",
+    "index.html": "/priyankuCodeReview/index.html",
+    "main.8cee230a.css.map": "/priyankuCodeReview/static/css/main.8cee230a.css.map",
+    "main.b95eaf97.js.map": "/priyankuCodeReview/static/js/main.b95eaf97.js.map",
+    "787.b2dfefea.chunk.js.map": "/priyankuCodeReview/static/js/787.b2dfefea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cee230a.css",
+    "static/js/main.b95eaf97.js"
+  ]
+}
